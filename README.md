@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Olá, me chamo Gardiano/h2>
+ <h1 align="center">Olá, me chamo Gardiano</h2>
  <h2 align="center">Seja bem vindo ao meu perfil!</h2>
 </p>
 

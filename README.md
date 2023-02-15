@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+ <h1 align="center">Olá, me chamo Gardiano/h2>
+ <h2 align="center">Seja bem vindo ao meu perfil!</h2>
+</p>
 
-<!--
-**zGardiano/zGardiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre mim**
 
-Here are some ideas to get you started:
+- 🎓 Estudante de Engenharia de Software (UNAERP) ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Iniciando carreira profissional ;
+
+- 💻 Python, JS, HTML, CSS, C ;
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zGardiano&show_icons=true&theme=dracula&hide_border=true&hide=prs&count_private=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGardiano&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
